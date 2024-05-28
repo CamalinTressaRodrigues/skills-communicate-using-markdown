@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hey , Welcome to this session!";
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
